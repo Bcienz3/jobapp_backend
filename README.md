@@ -21,4 +21,4 @@ Il server ascolta sulla porta 3000. Il database (`jobboard.db`) e la cartella `u
 - `POST /jobs/:id/apply`: candidatura con upload del curriculum
 
 ## Front-end
-L'app Flutter che usa queste API è nel repository: *(inserisci qui il link al repo Flutter)
+L'app Flutter che usa queste API è nel repository: https://github.com/Bcienz3/jobboard_app
